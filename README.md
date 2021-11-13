@@ -1,1 +1,7 @@
-# Add_Delete_update_database-using-prolog
+multilayered menu 
+
+deleting 
+adding 
+updating 
+
+rules of a data base 
